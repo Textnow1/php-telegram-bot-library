@@ -1,7 +1,7 @@
 <?php
 // bot characteristics
-$TELEGRAM_BOTNAME="samplebot";
-$TELEGRAM_TOKEN="...";
+$TELEGRAM_BOTNAME="likeforlike";
+$TELEGRAM_TOKEN="5029584043:AAFh7Qf8GGnYbF3vLYSXNCjmXXkvI_IZklE";
 
 // database connection information
 $DB_PORT=3306;
